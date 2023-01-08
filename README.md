@@ -2,7 +2,7 @@
 
 #Simple AHK Panel with GUI
 
-This panel was meant to be used mostly with the Medic class and 2 healing items in an assault-like gameplay, but by disabling the DoubleHeal option the panel can be used with any class in the game. 
+This panel was meant to be used mostly with the Medic class and 2 healing items in an assault-like gameplay, but by disabling the DoubleHeal option, the panel can be used with any class in the game. 
 
 User can enable or disable the following functions:
 
